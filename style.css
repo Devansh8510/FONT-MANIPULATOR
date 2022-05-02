@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right top, #ff5c00, #fb7c00, #f49900, #ebb200, #e0ca00, #ebc300, #f5bc00, #ffb500, #ff862e, #ff4664, #ff00a3, #ff00e9);
+}
+
+
+
+#h31{
+ font-size: larger;
+ color: rgb(255, 0, 0);
+ font-family:cursive ;
+ box-shadow: 5px 5px 40px red;
+ text-align: center;
+}
+
+#copy-footer{
+    position:fixed;
+    text-align: center;
+    bottom: 10;
+    font-size: x-large;
+    font-family: cursive;
+    color: rgb(9, 0, 139);
+    font-style: italic;
+    width: 100%;
+}
+
+canvas{
+    box-shadow: 5px 5px 40px blue;
+    background-color: black;
+    margin-top: 40px;
+}
